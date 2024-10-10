@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a wiki leaks anonymous website that allows users in Kenya to post exposes, about whatever it is<br>I am currently learning React Native<br>Ask me about Arduino sensors<br>I run on coffee and bad dad jokes
+🔭I'm currently working on a wiki leaks anonymous website that allows users in Kenya to post exposes, about whatever it is<br>🌳I am currently learning React Native<br>⚡Ask me about Arduino sensors<br>☕I run on coffee and bad dad jokes
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ I'm currently working on a wiki leaks anonymous website that allows users in Ken
 ---
 [![](https://visitcount.itsvg.in/api?id=SimonMuigai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
