@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**SimonMuigai/SimonMuigai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm currently working on a wiki leaks anonymous website that allows users in Kenya to post exposes, about whatever it is<br>I am currently learning React Native<br>Ask me about Arduino sensors<br>I run on coffee and bad dad jokes
 
